@@ -15,4 +15,27 @@ h2 {
 a {
   font-size: large;
   font-weight: 800;
+  padding: 8px;
+  margin: 16px 0;
+  display: block;
+}
+
+img {
+  border: black solid 8px;
+  margin: 0 auto;
+  display: block;
+}
+
+.first-container {
+  border: dotted brown 10px;
+  margin: 16px;
+  padding: 16px;
+}
+
+a:hover {
+  color: black;
+}
+
+.index-list {
+  list-style-type: none;
 }
